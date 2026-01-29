@@ -119,8 +119,3 @@ Suggestions :
 - Détection d’outliers (IQR)  
 - Interprétation business & recommandations RH  
 - Structuration d’un projet Data Analyst GitHub  
-
----
-
-# 📂 Structure du projet
-
